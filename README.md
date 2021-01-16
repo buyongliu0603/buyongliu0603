@@ -10,7 +10,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Java
+- :books: I’m currently learning Java
 - 📫 How to reach me: <a href="https://twitter.com/Lingura2">@Lingura2 
 - 📫 How to reach me: <a href="https://www.instagram.com/yongliubu/">@yongliubu</a> 
 
