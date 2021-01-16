@@ -4,7 +4,7 @@
   <img align="left" alt="Bu Yong Liu | Twitter" width="21px" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/twitter.png"/>
 </a>
 <a href="https://www.instagram.com/yongliubu/">
-  <img align="left" alt="Bu Yong Liu | Instragram" width="21px" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/instagram.jpg"/>
+  <img align="left" alt="Bu Yong Liu | Instragram" width="21px" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/instagram.png"/>
 </a>
 
 <br />
@@ -28,5 +28,5 @@
 <code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/javascript.png"></code>
 <code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/php.png"></code>
 <code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/java.jpg"></code>
+<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/java.png"></code>
 <code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/dart.png"></code>
