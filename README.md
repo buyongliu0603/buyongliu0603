@@ -23,9 +23,9 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/python.png"></code>
-<code><img height="20" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/javascript.png"></code>
-<code><img height="20" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/php.png"></code>
-<code><img height="20" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/visual-studio-code.png"></code>
-<code><img height="20" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/java.png"></code>
-<code><img height="20" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/dart.png"></code>
+<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/python.png"></code>
+<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/javascript.png"></code>
+<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/php.png"></code>
+<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/visual-studio-code.png"></code>
+<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/java.png"></code>
+<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/dart.png"></code>
