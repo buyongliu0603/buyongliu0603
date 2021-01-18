@@ -20,7 +20,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=buyongliu0603&theme=blue-green&layout=compact)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=xinnilee&theme=blue-green&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=EmilySiew&theme=blue-green&show_icons=true&count_private=true)
 
 **Languages and Tools:**  
 
