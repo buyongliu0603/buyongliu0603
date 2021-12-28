@@ -11,7 +11,7 @@
 <br />
 
 - :books: I’m currently learning Java
-- 📫 How to reach me: <a href="https://twitter.com/Lingura2">@Lingura2</a> 
+- 📫 How to reach me: <a href="https://twitter.com/Lingura2">@Lingura2 
 - 📫 How to reach me: <a href="https://www.instagram.com/yongliubu/">@yongliubu</a> 
 
 
@@ -21,12 +21,17 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=buyongliu0603&theme=blue-green&layout=compact)
 
 
+
 **Languages and Tools:**  
 
-<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/python.png"></code>
-<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/javascript.png"></code>
-<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/php.png"></code>
-<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/visual-studio-code.png"></code>
-<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/java.png"></code>
-<code><img height="30" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/dart.png"></code>
+<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/python.png"></code>
+<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/javascript.png"></code>
+<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/php.png"></code>
+<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/java.png"></code>
+<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/dart.png"></code>
 <code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/C%23.png"></code>
+<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/Angular.png"></code>
+<code><img height="40" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/Typescript.png"></code>
+
+  
